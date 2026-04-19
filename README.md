@@ -1,41 +1,40 @@
 # Hi 👋, I'm f0nazj
 
-### A budding Java developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f0nazj&label=Profile views&color=0e75b6&style=flat" alt="f0nazj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f0nazj" alt="f0nazj" /></a> </p>
+ign="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f0nazj" alt="f0nazj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Snow_Gods_" target="blank"><img src="https://img.shields.io/twitter/follow/Snow_Gods_?logo=twitter&style=for-the-badge" alt="Snow_Gods_" /></a> </p>
 
-- 🔭 I'm currently working on **	•	後端開發方向
-	•	Java 技術路線
-	•	分層架構（UI / Service / DAO）
-	•	系統設計概念
-	•	資料流（Data Flow）
-	•	RESTful API
-	•	Spring Boot**
+- 🔭 I'm currently working on **	
+•	後端開發方向
+•	Java 技術路線
+•	分層架構（UI / Service / DAO）
+•	系統設計概念
+•	資料流（Data Flow）
+•	RESTful API
+•	Spring Boot**
 
-- 🌱 I'm currently learning **	•	Java 基礎
-	•	OOP（物件導向）
-	•	Collections（集合）
-	•	File IO（檔案處理）
-	•	CRUD 操作
-	•	小型專案實作
-	•	程式架構練習**
+- 🌱 I'm currently learning **	
+•	Java 基礎
+•	OOP（物件導向）
+•	Collections（集合）
+•	File IO（檔案處理）
+•	CRUD 操作
+•	小型專案實作
+•	程式架構練習**
 
-- 💬 Ask me about **	•	大學生
-	•	Java學習者
-	•	後端工程師目標
-	•	自學能力
-	•	持續學習
-	•	邏輯思考
-	•	問題解決
-	•	專案導向學習
-	•	基礎扎實（OOP / Collections / IO）
-	•	正在累積作品（GitHub）
-	•	規劃升級（Spring Boot）
-	•	研究所目標**
+- 💬 Ask me about **	
+•	大學生
+•	Java學習者
+•	後端工程師目標
+•	自學能力
+•	持續學習
+•	邏輯思考
+•	問題解決
+•	專案導向學習
+•	基礎扎實（OOP / Collections / IO）
+•	正在累積作品（GitHub）
+•	規劃升級（Spring Boot）
+•	研究所目標**
 
 - 📫 How to reach me **e424320741@gmail.com**
 
