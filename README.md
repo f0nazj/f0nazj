@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm f0nazj 👋</h1>
 
 <p align="center">
-  Backend Developer · 城市科技大學 (CCUT)
+  Backend Developer · 城市科技大學 (TPCU)
 </p>
 
 ---
